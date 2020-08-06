@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![fayaxa](https://circleci.com/gh/fayaxa/Udacity-ML-MicroService-API.svg?style=svg)](https://circleci.com/gh/fayaxa/Udacity-ML-MicroService-API)
 
 ## Project Overview
 
